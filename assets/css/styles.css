@@ -52,6 +52,13 @@
   text-decoration: solid;
 }
 
+select {
+  height: 50px;
+  border-radius: 15px;
+  padding: 10px;
+  display: inline-block
+}
+
 /* .main-container {
   display: flex;
   flex-direction: row;
